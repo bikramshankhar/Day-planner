@@ -136,7 +136,7 @@ timeBlocks.forEach(function(thisHour) {
     }
 
     // creates save button
-    var saveButton = $("<i class='fas fa-save'></i>")
+    var saveButton = $("<i class='fas fa-save fa-lg'></i>")
     var savePlan = $("<button>")
         .attr({
             "class": "col-md-1 saveBtn"
