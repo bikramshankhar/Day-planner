@@ -3,6 +3,6 @@
 
 This is a simple day planner application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. The app display standard business hours (9am to 5pm)
 
-<img src="dayplanner2.png" alt="screenshot" style="">
-<img src="dayplanner.png" alt="screenshot" style="float:left">
+<img src="dayplanner2.png" alt="screenshot">
+<img src="dayplanner.png" alt="screenshot">
 
