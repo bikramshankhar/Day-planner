@@ -1,63 +1,63 @@
 
 var timeBlocks = [
     {
-        id: "0",
+        id: "1",
         hour: "09",
         time: "09",
         meridiem: "am",
         events: ""
     },
     {
-        id: "1",
+        id: "2",
         hour: "10",
         time: "10",
         meridiem: "am",
         events: ""
     },
     {
-        id: "2",
+        id: "3",
         hour: "11",
         time: "11",
         meridiem: "am",
         events: ""
     },
     {
-        id: "3",
+        id: "4",
         hour: "12",
         time: "12",
         meridiem: "pm",
         events: ""
     },
     {
-        id: "4",
+        id: "5",
         hour: "1",
         time: "13",
         meridiem: "pm",
         events: ""
     },
     {
-        id: "5",
+        id: "6",
         hour: "2",
         time: "14",
         meridiem: "pm",
         events: ""
     },
     {
-        id: "6",
+        id: "7",
         hour: "3",
         time: "15",
         meridiem: "pm",
         events: ""
     },
     {
-        id: "7",
+        id: "8",
         hour: "4",
         time: "16",
         meridiem: "pm",
         events: ""
     },
     {
-        id: "8",
+        id: "9",
         hour: "5",
         time: "17",
         meridiem: "pm",
